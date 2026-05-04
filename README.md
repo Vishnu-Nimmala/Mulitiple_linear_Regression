@@ -149,7 +149,7 @@ model.predict([[3,1.5,1340,7912,1.5,0,0,3,1340,0,1995,2005,0,0]])
 
 **Your Name**
 
-* GitHub: [https://github.com/your-username](https://github.com/Vishnu-Nimmala)
+* GitHub: [https://github.com/Vishnu-Nimmala](https://github.com/Vishnu-Nimmala)
 
 ---
 
